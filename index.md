@@ -16,11 +16,11 @@
 
 [TEST LINK](test)
 
-https://guides.github.com/features/mastering-markdown/  - sito utile da cui imparare markdown
+https://guides.github.com/features/mastering-markdown/ - sito utile da cui imparare markdown
 
 > quote
 > also a quote
 
-:grinning:
-:smiley:
+:GRINNING:
+:SMILEY:
 
