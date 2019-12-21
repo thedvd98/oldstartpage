@@ -12,7 +12,7 @@ in
     name = "jekyll_env";
     buildInputs = [ jekyll_env bundler ruby ];
 
-    /*shellHook = ''
+    shellHook = ''
       exec ${jekyll_env}/bin/jekyll serve --watch
-    '';*/
+    '';
   }
