@@ -4,12 +4,14 @@
 			"array" : [
 			{ "text" : "Duck", "link": "https://duckduckgo.com" },
 			{ "text" : "Startpage", "link": "https://www.startpage.com/" },
+			{ "text" : "Github", "link": "https://github.com/thedvd98" },
 			{ "text" : "Gmail",	"link": "https://mail.google.com/" }
 		]},
 		{"name": "webdev",
 			"array" : [
 			{ "text" : "Laravel Doc", "link": "https://laravel.com/docs/7.x" },
 			{ "text" : "Vuejs", "link": "https://vuejs.org/v2/guide/" },
+			{ "text" : "ReactNative", "link": "https://reactnative.dev/docs/getting-started" },
 			{ "text" : "Mail temporanea", "link": "https://temp-mail.org/" },
 			{ "text" : "Free for dev", "link": "https://free-for.dev/" }
 		]},
@@ -23,7 +25,5 @@
 			"array" : [
 			{ "text" : "HN", "link": "https://news.ycombinator.com" }
 		]}
-
-
 	]
 }

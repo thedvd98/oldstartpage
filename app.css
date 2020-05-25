@@ -1,8 +1,26 @@
+body {
+	width: 90%;
+	margin: 2em auto;
+}
+
 #app {
-	width: fit-content;
 	margin: 0 auto;
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+	display: grid;
+	gap: 20px;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 }
 
 ul {
 	list-style-type: none;
+	/*border: 2px solid rgb(0, 0, 0);*/
+	padding: 0px 20px 20px 20px;
+}
+
+a {
+	text-decoration: none;
 }
