@@ -1,0 +1,29 @@
+{
+	"urls": [
+		{ "name": "core",
+			"array" : [
+			{ "text" : "Duck", "link": "https://duckduckgo.com" },
+			{ "text" : "Startpage", "link": "https://www.startpage.com/" },
+			{ "text" : "Gmail",	"link": "https://mail.google.com/" }
+		]},
+		{"name": "webdev",
+			"array" : [
+			{ "text" : "Laravel Doc", "link": "https://laravel.com/docs/7.x" },
+			{ "text" : "Vuejs", "link": "https://vuejs.org/v2/guide/" },
+			{ "text" : "Mail temporanea", "link": "https://temp-mail.org/" },
+			{ "text" : "Free for dev", "link": "https://free-for.dev/" }
+		]},
+		{"name": "hhhhh",
+			"array" : [
+			{ "text" : "HTB", "link": "https://www.hackthebox.eu/" },
+			{ "text" : "HTS", "link": "https://www.hackthissite.org/" },
+			{ "text" : "H1", "link": "https://www.hackerone.com/" }
+		]},
+		{"name": "news",
+			"array" : [
+			{ "text" : "HN", "link": "https://news.ycombinator.com" }
+		]}
+
+
+	]
+}
