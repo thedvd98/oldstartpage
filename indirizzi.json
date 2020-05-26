@@ -13,6 +13,7 @@
 			{ "text" : "Vuejs", "link": "https://vuejs.org/v2/guide/" },
 			{ "text" : "ReactNative", "link": "https://reactnative.dev/docs/getting-started" },
 			{ "text" : "Mail temporanea", "link": "https://temp-mail.org/" },
+			{ "text" : "Netlify", "link": "https://app.netlify.com/" },
 			{ "text" : "Free for dev", "link": "https://free-for.dev/" }
 		]},
 		{"name": "hhhhh",
@@ -24,6 +25,11 @@
 		{"name": "news",
 			"array" : [
 			{ "text" : "HN", "link": "https://news.ycombinator.com" }
+		]},
+		{"name": "cose",
+			"array" : [
+			{ "text" : "l'occhio", "link": "https://the-eye.eu/" }
 		]}
+
 	]
 }
