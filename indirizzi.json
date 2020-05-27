@@ -30,7 +30,8 @@
 		]},
 		{"name": "cose",
 			"array" : [
-			{ "text" : "l'occhio", "link": "https://the-eye.eu" }
+			{ "text" : "l'occhio", "link": "https://the-eye.eu" },
+			{ "text" : "txti", "link": "https://txti.es" }
 		]}
 
 	]
