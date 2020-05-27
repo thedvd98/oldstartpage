@@ -7,10 +7,11 @@
 	</head>
 	<body>
 		<div id="app" class="container">
-			<ul v-for="categoria in categorie">
+			<ul v-for="categoria in categorie" class="container_list">
 				<h1>{{ categoria.name }}</h1>
 				<li v-for="indirizzo in categoria.array">
-					<a v-bind:href="indirizzo.link">{{ indirizzo.text }}</a>
+						<img v-bind:src="'https://'+indirizzo.link.split('/')[2] + '/favicon.ico'" onerror="this.onerror=null; this.src='default.png'" class="small-icon"/>
+						<a v-bind:href="indirizzo.link">{{ indirizzo.text }}</a>
 				</li>
 			</ul>
 		</div>

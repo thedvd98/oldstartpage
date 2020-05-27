@@ -11,16 +11,29 @@ body {
 	margin: 0;
 	padding: 0;
 	display: grid;
-	gap: 20px;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(300px,1fr));	/* Magia nera */
+	grid-template-rows: repeat(auto-fill, 1fr);	/* 1fr fraziona lo spazio evita di far calcoli */
+	grid-column-gap: 10px;
+	grid-row-gap: 30px;
 }
 
-ul {
+.container_list {
 	list-style-type: none;
-	/*border: 2px solid rgb(0, 0, 0);*/
+	border: 1px solid rgb(0, 0, 0);
 	padding: 0px 20px 20px 20px;
+	height: 100%;
+	text-align: center;
+}
+.container_list > li {
+	text-align: left;
+}
+.small-icon {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
 }
 
-a {
+li > a {
+	float: center;
 	text-decoration: none;
 }

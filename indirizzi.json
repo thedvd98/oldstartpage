@@ -3,26 +3,26 @@
 		{ "name": "core",
 			"array" : [
 			{ "text" : "Duck", "link": "https://duckduckgo.com" },
-			{ "text" : "Startpage", "link": "https://www.startpage.com/" },
+			{ "text" : "Startpage", "link": "https://www.startpage.com" },
 			{ "text" : "Github", "link": "https://github.com/thedvd98" },
-			{ "text" : "Gmail",	"link": "https://mail.google.com/" }
+			{ "text" : "Gmail",	"link": "https://mail.google.com" }
 		]},
 		{"name": "webdev",
 			"array" : [
 			{ "text" : "Laravel Doc", "link": "https://laravel.com/docs/7.x" },
-			{ "text" : "Vuejs", "link": "https://vuejs.org/v2/guide/" },
+			{ "text" : "Vuejs", "link": "https://vuejs.org/v2/guide" },
 			{ "text" : "ReactNative", "link": "https://reactnative.dev/docs/getting-started" },
-			{ "text" : "Mail temporanea", "link": "https://temp-mail.org/" },
-			{ "text" : "Netlify", "link": "https://app.netlify.com/" },
-			{ "text" : "Surge", "link": "https://surge.sh/" },
-			{ "text" : "Workers", "link": "https://workers.cloudflare.com/" },
-			{ "text" : "Free for dev", "link": "https://free-for.dev/" }
+			{ "text" : "Mail temporanea", "link": "https://temp-mail.org" },
+			{ "text" : "Netlify", "link": "https://app.netlify.com" },
+			{ "text" : "Surge", "link": "https://surge.sh" },
+			{ "text" : "Workers", "link": "https://workers.cloudflare.com" },
+			{ "text" : "Free for dev", "link": "https://free-for.dev" }
 		]},
 		{"name": "hhhhh",
 			"array" : [
-			{ "text" : "HTB", "link": "https://www.hackthebox.eu/" },
-			{ "text" : "HTS", "link": "https://www.hackthissite.org/" },
-			{ "text" : "H1", "link": "https://www.hackerone.com/" }
+			{ "text" : "HTB", "link": "https://www.hackthebox.eu" },
+			{ "text" : "HTS", "link": "https://www.hackthissite.org" },
+			{ "text" : "H1", "link": "https://www.hackerone.com" }
 		]},
 		{"name": "news",
 			"array" : [
@@ -30,7 +30,7 @@
 		]},
 		{"name": "cose",
 			"array" : [
-			{ "text" : "l'occhio", "link": "https://the-eye.eu/" }
+			{ "text" : "l'occhio", "link": "https://the-eye.eu" }
 		]}
 
 	]

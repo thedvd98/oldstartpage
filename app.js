@@ -10,5 +10,5 @@ var app = new Vue({
 				this.categorie = json.urls
 			})
 	}
-	
+
 })
