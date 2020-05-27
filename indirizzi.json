@@ -14,6 +14,8 @@
 			{ "text" : "ReactNative", "link": "https://reactnative.dev/docs/getting-started" },
 			{ "text" : "Mail temporanea", "link": "https://temp-mail.org/" },
 			{ "text" : "Netlify", "link": "https://app.netlify.com/" },
+			{ "text" : "Surge", "link": "https://surge.sh/" },
+			{ "text" : "Workers", "link": "https://workers.cloudflare.com/" },
 			{ "text" : "Free for dev", "link": "https://free-for.dev/" }
 		]},
 		{"name": "hhhhh",
