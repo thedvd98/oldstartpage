@@ -7,6 +7,12 @@
 			{ "text" : "Github", "link": "https://github.com/thedvd98" },
 			{ "text" : "Gmail",	"link": "https://mail.google.com" }
 		]},
+		{"name": "prog",
+			"array" : [
+			{ "text" : "Learnxinyminutes", "link": "https://learnxinyminutes.com" },
+			{ "text" : "Gitsimple cmd", "link": "https://rogerdudler.github.io/git-guide/" },
+			{ "text" : "OP x86", "link": "https://en.wikipedia.org/wiki/X86_instruction_listings" }
+		]},
 		{"name": "webdev",
 			"array" : [
 			{ "text" : "Laravel Doc", "link": "https://laravel.com/docs/7.x" },
@@ -22,7 +28,9 @@
 			"array" : [
 			{ "text" : "HTB", "link": "https://www.hackthebox.eu" },
 			{ "text" : "HTS", "link": "https://www.hackthissite.org" },
-			{ "text" : "H1", "link": "https://www.hackerone.com" }
+			{ "text" : "H1", "link": "https://www.hackerone.com" },
+			{ "text" : "R2", "link": "https://radare.gitbooks.io/radare2book/content" },
+			{ "text" : "T4Y", "link": "https://tuts4you.com/" }
 		]},
 		{"name": "news",
 			"array" : [
@@ -31,6 +39,7 @@
 		{"name": "cose",
 			"array" : [
 			{ "text" : "l'occhio", "link": "https://the-eye.eu" },
+			{ "text" : "FutureMe", "link": "https://www.futureme.org" },
 			{ "text" : "txti", "link": "https://txti.es" }
 		]}
 

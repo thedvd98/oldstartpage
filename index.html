@@ -10,7 +10,9 @@
 			<ul v-for="categoria in categorie" class="container_list">
 				<h1>{{ categoria.name }}</h1>
 				<li v-for="indirizzo in categoria.array">
-						<img v-bind:src="'https://'+indirizzo.link.split('/')[2] + '/favicon.ico'" onerror="this.onerror=null; this.src='default.png'" class="small-icon"/>
+					<div class="small-icon">
+						<img v-bind:src="'https://'+indirizzo.link.split('/')[2] + '/favicon.ico'" onerror="this.onerror=null; this.src='default.png'"/>
+					</div>
 						<a v-bind:href="indirizzo.link">{{ indirizzo.text }}</a>
 				</li>
 			</ul>
