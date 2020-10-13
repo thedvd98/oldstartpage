@@ -22,6 +22,8 @@
 			{ "text" : "Netlify", "link": "https://app.netlify.com" },
 			{ "text" : "Surge", "link": "https://surge.sh" },
 			{ "text" : "Workers", "link": "https://workers.cloudflare.com" },
+			{ "text" : "Cssgrid", "link": "https://cssgrid-generator.netlify.app/" },
+			{ "text" : "ViewDns", "link": "https://viewdns.info/" },
 			{ "text" : "Free for dev", "link": "https://free-for.dev" }
 		]},
 		{"name": "hhhhh",
