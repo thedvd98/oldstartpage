@@ -1,23 +1,42 @@
+<!doctype html>
 <html>
 	<head>
+		<meta charset="utf-8"/>
 		<title>Startpage</title>
-		<script src="https://cdn.jsdelivr.net/npm/vue"></script>
-		<!--<script src="https://unpkg.com/vue"></script>-->
 		<link rel="stylesheet" type="text/css" href="app.css">
 	</head>
 	<body>
-		<div id="app" class="container">
-			<ul v-for="categoria in categorie" class="container_list">
-				<h1>{{ categoria.name }}</h1>
-				<li v-for="indirizzo in categoria.array">
-					<div class="small-icon">
-						<img v-bind:src="'https://'+indirizzo.link.split('/')[2] + '/favicon.ico'" onerror="this.onerror=null; this.src='default.png'"/>
-					</div>
-						<a v-bind:href="indirizzo.link">{{ indirizzo.text }}</a>
-				</li>
-			</ul>
-		</div>
-
-		<script src="app.js"></script>
+		<a href="https://duckduckgo.com">Duck</a><br/>
+		<a href="https://www.startpage.com">Startpage</a><br/>
+		<a href="https://github.com/thedvd98">Github</a><br/>
+		<a href="https://mail.google.com">Gmail</a><br/>
+		<a href="https://learnxinyminutes.com">Learnxinyminutes</a><br/>
+		<a href="https://rogerdudler.github.io/git-guide/">Gitsimple</a><br/>
+		<a href="https://en.wikipedia.org/wiki/X86_instruction_listings">OPx86</a><br/>
+		<a href="https://laravel.com/docs/7.x">LaravelDoc</a><br/>
+		<a href="https://vuejs.org/v2/guide">Vuejs</a><br/>
+		<a href="https://reactnative.dev/docs/getting-started">ReactNative</a><br/>
+		<a href="https://temp-mail.org">MailTmp</a><br/>
+		<a href="https://app.netlify.com">Netlify</a><br/>
+		<a href="https://surge.sh">Surge</a><br/>
+		<a href="https://workers.cloudflare.com">Workers</a><br/>
+		<a href="https://cssgrid-generator.netlify.app/">Cssgrid</a><br/>
+		<a href="https://viewdns.info/">ViewDns</a><br/>
+		<a href="https://free-for.dev">FreeForDev</a><br/>
+		<a href="https://www.hackthebox.eu">HTB</a><br/>
+		<a href="https://www.hackthissite.org">HTS</a><br/>
+		<a href="https://www.hackerone.com">H1</a><br/>
+		<a href="https://radare.gitbooks.io/radare2book/content">R2</a><br/>
+		<a href="https://tuts4you.com/">T4Y</a><br/>
+		<a href="https://news.ycombinator.com">HN</a><br/>
+		<a href="https://www.reuters.com">Reuters</a><br/>
+		<a href="https://cryptopanic.com">Cp</a><br/>
+		<a href="https://blog.ethereum.org">EthBlog</a><br/>
+		<a href="https://rekt.news">Rekt</a><br/>
+		<a href="https://etherscan.io">EtherScan</a><br/>
+		<a href="https://the-eye.eu">L'occhio</a><br/>
+		<a href="https://www.futureme.org">FutureMe</a><br/>
+		<a href="https://txti.es">txti</a><br/>
+		<a href="https://based.cooking/">Cucina</a><br/>
 	</body>
 </html>
