@@ -1,14 +1,12 @@
 Duck https://duckduckgo.com
 Startpage https://www.startpage.com
 Github https://github.com/thedvd98
-Gmail https://mail.google.com
+SourceHut https://sr.ht/
 Learnxinyminutes https://learnxinyminutes.com
 Gitsimple https://rogerdudler.github.io/git-guide/
 OPx86 https://en.wikipedia.org/wiki/X86_instruction_listings
-LaravelDoc https://laravel.com/docs/7.x
 MailTmp https://temp-mail.org
 Netlify https://app.netlify.com
-Surge https://surge.sh
 Cssgrid https://cssgrid-generator.netlify.app/
 ViewDns https://viewdns.info/
 FreeForDev https://free-for.dev
@@ -22,8 +20,7 @@ Reuters https://www.reuters.com
 Cryptopanic https://cryptopanic.com
 EthBlog https://blog.ethereum.org
 Rekt https://rekt.news
-EtherScan https://etherscan.io
-L'occhio https://the-eye.eu
+TheEye https://the-eye.eu
 FutureMe https://www.futureme.org
 txti https://txti.es
 Cucina https://based.cooking/
