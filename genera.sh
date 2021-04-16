@@ -10,6 +10,9 @@ function add()
 	echo -ne $1 >> $INDEX
 }
 
+add '<div class="main">'
+add '<div class="url_list">'
+
 while iFS="" read -r line || [ -n "$line" ]
 do
 	title=$(echo $line | cut -d' ' -f1)
@@ -21,5 +24,7 @@ do
 	add '</a><br/>\n'
 done < $DATA
 
+add '</div>'
+add '</div>'
 
 cat footer.html >> $INDEX
