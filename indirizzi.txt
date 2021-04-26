@@ -10,6 +10,7 @@ Netlify https://app.netlify.com
 Cssgrid https://cssgrid-generator.netlify.app/
 ViewDns https://viewdns.info/
 FreeForDev https://free-for.dev
+WarGames https://overthewire.org/wargames/
 HTB https://www.hackthebox.eu
 HTS https://www.hackthissite.org
 HOne https://www.hackerone.com
