@@ -18,17 +18,28 @@ body {
 }
 
 .main {
-	text-align: right;
-	margin-left: auto;
+	margin-left: 20px;
 	margin-right: 20px;
 
+	flex-grow: 2; /* for body column position of main and footer*/
+
+	/* row pos of page and url list */
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.page_list {
 	flex-grow: 1;
+	text-align: left;
 }
 
 .url_list {
+	text-align: right;
 	border-right: 1px solid grey;
 	padding: 5px;
 	font-weight: 500;
+	flex-grow: 1;
 }
 
 .url_list > a {
