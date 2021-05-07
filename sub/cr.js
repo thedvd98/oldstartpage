@@ -14,7 +14,7 @@ Vue.component('coin-price', {
 				})
 
 	},
-	template: '<tr class="coin"><td>{{ name }}</td>{{ price }} Eur<td></tr>'
+	template: '<tr class="coin"><td>{{ name }}</td>Eur {{ price }}<td></tr>'
 })
 
 
