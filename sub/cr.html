@@ -1,0 +1,23 @@
+<?doctype html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Crypto price</title>
+		<link rel="stylesheet" type="text/css" href="cr.css">
+		<script src="vue.js"></script>
+	</head>
+	<body>
+		<div id="crapp">
+			<table>
+			<tbody>
+			<coin-price
+				v-for="coin in coins"
+				v-bind:name="coin.name">
+			</coin-price>
+			</tbody>
+			</table>
+
+		</div>
+	</body>
+	<script src="cr.js"></script>
+</html>
