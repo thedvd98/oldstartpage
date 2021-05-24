@@ -24,7 +24,8 @@ var app = new Vue({
 		coins: [
 			{ name: "bitcoin" },
 			{ name: "ethereum" },
-			{ name: "monero" }
+			{ name: "monero" },
+			{ name: "aave" }
 		]
 	},
 	created() {
